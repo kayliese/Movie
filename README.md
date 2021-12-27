@@ -1,3 +1,7 @@
+Based on given data, produce a list of movies by categories with ability to search, and filter.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
